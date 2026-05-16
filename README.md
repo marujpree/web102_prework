@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/JNaCHvu)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/cHlKnWR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -32,6 +32,7 @@ LiceCap for Windows
 ## Notes
 
 Describe any challenges encountered while building the app.
+The most challenging part of building the app was the formatting and CSS styling but the walkthrough PDF guides with resources helped a lot.
 
 
 ## License
